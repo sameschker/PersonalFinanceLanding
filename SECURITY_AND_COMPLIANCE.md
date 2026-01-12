@@ -1,6 +1,5 @@
 # Security, Privacy, and Compliance Policy
 
-**Last Updated:** 2026-02-01
 **Project Type:** Personal, single-user application
 **Data Scope:** Personal financial data belonging exclusively to the project owner
 
